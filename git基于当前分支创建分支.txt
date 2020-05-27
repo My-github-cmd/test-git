@@ -6,3 +6,9 @@
 5、第n次尝试创建分支
 6、使用git branch 分支名    创建分支
 7、测试
+8、版本回退测试:
+                git reset -soft :取消了commit  
+                git reset -mixed（默认） :取消了commit ，取消了add
+                git reset -hard :取消了commit ，取消了add，取消源文件修改
+
+9、第二次测试
