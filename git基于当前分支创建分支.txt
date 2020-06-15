@@ -14,4 +14,16 @@
 9、第二次测试
 
 
-10、添加
+10、git status  修改文件之后用这个查看状态
+    git add .    添加所有的文件
+    git commit -m “ 注释”
+   git push     第一次要输入用户名和密码
+
+
+
+   git branch   查看当前分支
+   git branch 分支名   创建分支
+   git checkout 分支名 切换分支
+   git branch   查看分支，如果多了一个分支，则说明创建分支成功
+   git push origin 你的分支名    推动本地分支到远程仓库
+   
