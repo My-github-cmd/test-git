@@ -12,3 +12,6 @@
                 git reset -hard :取消了commit ，取消了add，取消源文件修改
 
 9、第二次测试
+
+
+10、添加
