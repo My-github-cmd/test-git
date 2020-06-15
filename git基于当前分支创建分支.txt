@@ -26,4 +26,6 @@
    git checkout 分支名 切换分支
    git branch   查看分支，如果多了一个分支，则说明创建分支成功
    git push origin 你的分支名    推动本地分支到远程仓库
+
+   widea
    
